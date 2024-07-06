@@ -7,7 +7,7 @@ function scanNetwork(callback) {
         // If an error occurs, call the callback with the error
         if (err) {
             callback(err, null);
-            return;k
+            return;
         }
         // Split the output into lines
         const lines = stdout.split('\n');
