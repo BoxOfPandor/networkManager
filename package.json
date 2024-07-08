@@ -9,6 +9,7 @@
   "author": "Thibault POUCH (BoxOfPandor)",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "mysql": "^2.18.1"
   }
 }
