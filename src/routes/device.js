@@ -1,3 +1,12 @@
+/**
+ * File : src/routes/device.js
+ * Author: BoxOfPandor (Thibault Pouch)
+ * 
+ * Comments:
+ *     This file is a new route that allows to add
+ *     or remove a device from the database.
+ */
+
 const express = require('express');
 const router = express.Router();
 const { scanNetwork } = require('../func/networkScan.js');

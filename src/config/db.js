@@ -1,3 +1,11 @@
+/**
+ * File: src/config/db.js
+ * Author: BoxOfPandor (Thibault Pouch)
+ * 
+ * Comments:
+ *   This file contains the database configuration.
+ */
+
 const mysql = require('mysql');
 require('dotenv').config();
 

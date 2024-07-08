@@ -1,3 +1,11 @@
+/**
+ * File : src/func/networkScan.js
+ * Author: BoxOfPandor (Thibault Pouch)
+ * 
+ * Comments:
+ *    This file contains a function to scan the network
+ */
+
 const { exec } = require('child_process');
 
 // Scan the network for devices

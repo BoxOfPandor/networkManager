@@ -1,3 +1,11 @@
+/**
+ * File : src/index.js
+ * Author: BoxOfPandor (Thibault Pouch)
+ * 
+ * Comments:
+ *    This file is the main entry point of the application.
+ */
+
 const express = require("express");
 const app = express();
 app.use(express.json());

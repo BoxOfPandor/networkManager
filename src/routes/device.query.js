@@ -1,3 +1,11 @@
+/**
+ * File : src/routes/device.query.js
+ * Author: BoxOfPandor (Thibault Pouch)
+ * 
+ * Comments:
+ *    This file contains functions to interact with the database.
+ */
+
 const db = require('../config/db.js');
 
 // Fonction pour ajouter un nouvel élément
